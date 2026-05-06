@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 # About The Project
-This project was developed as part of the CSE428(Image Processing) course {project}[https://github.com/azizulkabirjayed/13-pet-image-segmentation-and-classification-using-unet-and-attention-unet/blob/cdde9acd111d4d00a0f655e45fa2f67cc4312045/CSE428%20Spring%2026%20Project%20Guidelines%20(1).pdf] at BRAC University.
+This project was developed as part of the CSE428(Image Processing) course [project](https://github.com/azizulkabirjayed/13-pet-image-segmentation-and-classification-using-unet-and-attention-unet/blob/cdde9acd111d4d00a0f655e45fa2f67cc4312045/CSE428%20Spring%2026%20Project%20Guidelines%20(1).pdf) at BRAC University.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
@@ -17,7 +17,7 @@ This project was developed as part of the CSE428(Image Processing) course {proje
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Project Demo Video
-The project demo video is available to watch here: <a href="">click here</a>.
+The project demo video is available to watch here: <a href="https://www.google.com/">click here</a>.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
