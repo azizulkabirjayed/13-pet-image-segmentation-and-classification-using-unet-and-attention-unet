@@ -18,7 +18,12 @@ This repository contains a PyTorch implementation for joint **binary pet segment
 # Dataset & Preprocessing
 * **Dataset:** [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/) (37 breeds: 25 dogs, 12 cats).
 * **Segmentation Mask Preprocessing:** The original 3-class trimap is converted into a binary mask:
-  $$\text{binary\_mask} = \begin{cases} 1 & \text{if pixel } \in \{1, 3\} \text{ (pet / boundary)} \\ 0 & \text{if pixel } = 2 \text{ (background)} \end{cases}$$
+
+  | Trimap Value | Meaning | Binary Mask |
+  |:---:|:---|:---:|
+  | 1 | Foreground (pet) | 1 |
+  | 3 | Boundary | 1 |
+  | 2 | Background | 0 |
 * **Splits (Seed 42, Stratified):**
   * **Train (~80%)**
   * **Validation (~10%)**
