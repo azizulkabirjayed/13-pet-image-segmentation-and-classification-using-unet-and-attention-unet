@@ -98,3 +98,16 @@ Metrics are evaluated using the best validation loss checkpoint saved during tra
 * Sindid Arafat (sindid.arafat@g.bracu.ac.bd)
 * Zarin Tasnim Promete (zarin.tasnim.promete@g.bracu.ac.bd)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+# Sample Visualizations
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/6c53751d9d338af175f77afbf819fe7f384693a7/13/1.png)
+![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/6c53751d9d338af175f77afbf819fe7f384693a7/13/2.png)
+![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/6c53751d9d338af175f77afbf819fe7f384693a7/13/3.png)
+![Visualization 4](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/6c53751d9d338af175f77afbf819fe7f384693a7/13/4.png)
+![Visualization 5](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/6c53751d9d338af175f77afbf819fe7f384693a7/13/5.png)
+![Visualization 6](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/6c53751d9d338af175f77afbf819fe7f384693a7/13/6.png)
+![Visualization 7](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/6c53751d9d338af175f77afbf819fe7f384693a7/13/7.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
